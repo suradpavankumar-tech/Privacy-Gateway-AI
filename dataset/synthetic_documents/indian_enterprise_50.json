@@ -1,0 +1,352 @@
+[
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #1",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Aarav Sharma\nDOB: 10/01/1982\nAadhaar Number: 2010 4857 6906\nPAN Number: ABCPS1020A\nResidential Address: Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005\nMobile: +91 9845012300 | Email: aarav.sharma.1@example.in\nDisbursement Bank A/c No: 304958102900 (IFSC: SBIN0004100)\nBusiness GSTIN: 29ABCPS1020A1ZB\nDeclaration: I, Aarav Sharma, confirm my PAN ABCPS1020A for loan sanction of INR 12,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #2",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Priya Nair\nDOB: 11/02/1983\nAadhaar Number: 3010-4857-8273\nPAN Number: ABCPN1021B\nResidential Address: House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033\nMobile: +91 9845012411 | Email: priya.nair.2@example.in\nDisbursement Bank A/c No: 304958102901 (IFSC: SBIN0004101)\nDeclaration: I, Priya Nair, confirm my PAN ABCPN1021B for loan sanction of INR 13,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #3",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Vikramaditya Kulkarni\nDOB: 12/03/1984\nAadhaar Number: 4010 4857 9647\nPAN Number: ABCPK1022C\nResidential Address: Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038\nMobile: +91 9845012522 | Email: vikramaditya.kulkarni.3@example.in\nDisbursement Bank A/c No: 304958102902 (IFSC: SBIN0004102)\nDeclaration: I, Vikramaditya Kulkarni, confirm my PAN ABCPK1022C for loan sanction of INR 14,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #4",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Ananya Chatterjee\nDOB: 13/04/1985\nAadhaar Number: 5010-4858-1012\nPAN Number: ABCPC1023D\nResidential Address: Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102\nMobile: +91 9845012633 | Email: ananya.chatterjee.4@example.in\nDisbursement Bank A/c No: 304958102903 (IFSC: SBIN0004103)\nBusiness GSTIN: 33ABCPC1023D1ZT\nDeclaration: I, Ananya Chatterjee, confirm my PAN ABCPC1023D for loan sanction of INR 15,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #5",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Suresh Reddy\nDOB: 14/05/1986\nAadhaar Number: 6010 4858 2382\nPAN Number: ABCPR1024E\nResidential Address: Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015\nMobile: +91 9845012744 | Email: suresh.reddy.5@example.in\nDisbursement Bank A/c No: 304958102904 (IFSC: SBIN0004104)\nDeclaration: I, Suresh Reddy, confirm my PAN ABCPR1024E for loan sanction of INR 16,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #6",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Fatima Begum\nDOB: 15/06/1987\nAadhaar Number: 7010-4858-3754\nPAN Number: ABCPB1025F\nResidential Address: No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038\nMobile: +91 9845012855 | Email: fatima.begum.6@example.in\nDisbursement Bank A/c No: 304958102905 (IFSC: SBIN0004105)\nDeclaration: I, Fatima Begum, confirm my PAN ABCPB1025F for loan sanction of INR 17,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #7",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Harpreet Singh\nDOB: 16/07/1988\nAadhaar Number: 8010 4858 5126\nPAN Number: ABCPS1026G\nResidential Address: B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015\nMobile: +91 9845012966 | Email: harpreet.singh.7@example.in\nDisbursement Bank A/c No: 304958102906 (IFSC: SBIN0004106)\nBusiness GSTIN: 24ABCPS1026G1Z3\nDeclaration: I, Harpreet Singh, confirm my PAN ABCPS1026G for loan sanction of INR 18,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #8",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Karthik Subramanian\nDOB: 17/08/1989\nAadhaar Number: 2010-4858-6491\nPAN Number: ABCPS1027H\nResidential Address: House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006\nMobile: +91 9845013077 | Email: karthik.subramanian.8@example.in\nDisbursement Bank A/c No: 304958102907 (IFSC: SBIN0004107)\nDeclaration: I, Karthik Subramanian, confirm my PAN ABCPS1027H for loan sanction of INR 19,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #9",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Neha Deshpande\nDOB: 18/09/1990\nAadhaar Number: 3010 4858 7868\nPAN Number: ABCPD1028J\nResidential Address: Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091\nMobile: +91 9845013188 | Email: neha.deshpande.9@example.in\nDisbursement Bank A/c No: 304958102908 (IFSC: SBIN0004108)\nDeclaration: I, Neha Deshpande, confirm my PAN ABCPD1028J for loan sanction of INR 20,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #10",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Arjun Malhotra\nDOB: 19/01/1991\nAadhaar Number: 4010-4858-9239\nPAN Number: ABCPM1029K\nResidential Address: Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031\nMobile: +91 9845013299 | Email: arjun.malhotra.10@example.in\nDisbursement Bank A/c No: 304958102909 (IFSC: SBIN0004109)\nBusiness GSTIN: 32ABCPM1029K1Z0\nDeclaration: I, Arjun Malhotra, confirm my PAN ABCPM1029K for loan sanction of INR 21,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #11",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Deepika Joshi\nDOB: 20/02/1992\nAadhaar Number: 5010 4859 0600\nPAN Number: ABCPJ1030L\nResidential Address: Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005\nMobile: +91 9845013410 | Email: deepika.joshi.11@example.in\nDisbursement Bank A/c No: 304958102910 (IFSC: SBIN0004110)\nDeclaration: I, Deepika Joshi, confirm my PAN ABCPJ1030L for loan sanction of INR 22,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #12",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Mohammed Irfan\nDOB: 21/03/1993\nAadhaar Number: 6010-4859-1976\nPAN Number: ABCPI1031M\nResidential Address: House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033\nMobile: +91 9845013521 | Email: mohammed.irfan.12@example.in\nDisbursement Bank A/c No: 304958102911 (IFSC: SBIN0004111)\nDeclaration: I, Mohammed Irfan, confirm my PAN ABCPI1031M for loan sanction of INR 23,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #13",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Sneha Patil\nDOB: 22/04/1994\nAadhaar Number: 7010 4859 3341\nPAN Number: ABCPP1032N\nResidential Address: Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038\nMobile: +91 9845013632 | Email: sneha.patil.13@example.in\nDisbursement Bank A/c No: 304958102912 (IFSC: SBIN0004112)\nBusiness GSTIN: 27ABCPP1032N1ZN\nDeclaration: I, Sneha Patil, confirm my PAN ABCPP1032N for loan sanction of INR 24,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #14",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Rajeshwari Iyer\nDOB: 23/05/1995\nAadhaar Number: 8010-4859-4715\nPAN Number: ABCPI1033P\nResidential Address: Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102\nMobile: +91 9845013743 | Email: rajeshwari.iyer.14@example.in\nDisbursement Bank A/c No: 304958102913 (IFSC: SBIN0004113)\nDeclaration: I, Rajeshwari Iyer, confirm my PAN ABCPI1033P for loan sanction of INR 25,50,000.\n"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "purpose": "loan_underwriting",
+    "title": "Retail Loan Application #15",
+    "text": "RETAIL HOME LOAN APPLICATION\nApplicant Name: Siddharth Verma\nDOB: 24/06/1996\nAadhaar Number: 2010 4859 6080\nPAN Number: ABCPV1034Q\nResidential Address: Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015\nMobile: +91 9845013854 | Email: siddharth.verma.15@example.in\nDisbursement Bank A/c No: 304958102914 (IFSC: SBIN0004114)\nDeclaration: I, Siddharth Verma, confirm my PAN ABCPV1034Q for loan sanction of INR 26,50,000.\n"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #1",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880100\nAccount Holder Name: Mr. Fatima Begum\nAadhaar UID: 302290184730\nPAN: KLMFB3040R\nVoter ID (EPIC): KAC4501200\nPassport No: P7102400\nGSTIN: 33KLMFB3040R1ZC\nPermanent Address: Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102\nVerified UPI VPA: fatima1@okicici\nRemarks: KYC status pending compliance sign-off for Fatima Begum.\n"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #2",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880101\nAccount Holder Name: Mr. Harpreet Singh\nAadhaar UID: 402290187248\nPAN: KLMFS3041S\nVoter ID (EPIC): KAC4501217\nPassport No: P7102423\nGSTIN: 06KLMFS3041S1ZP\nPermanent Address: Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015\nVerified UPI VPA: harpreet2@okicici\nRemarks: KYC status pending compliance sign-off for Harpreet Singh.\n"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #3",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880102\nAccount Holder Name: Mr. Karthik Subramanian\nAadhaar UID: 502290189752\nPAN: KLMFS3042T\nVoter ID (EPIC): KAC4501234\nPassport No: P7102446\nGSTIN: 29KLMFS3042T1ZE\nPermanent Address: No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038\nVerified UPI VPA: karthik3@okicici\nRemarks: KYC status pending compliance sign-off for Karthik Subramanian.\n"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #4",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880103\nAccount Holder Name: Mr. Neha Deshpande\nAadhaar UID: 602290192269\nPAN: KLMFD3043U\nVoter ID (EPIC): KAC4501251\nPassport No: P7102469\nGSTIN: 24KLMFD3043U1Z0\nPermanent Address: B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015\nVerified UPI VPA: neha4@okicici\nRemarks: KYC status pending compliance sign-off for Neha Deshpande.\n"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #5",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880104\nAccount Holder Name: Mr. Arjun Malhotra\nAadhaar UID: 702290194771\nPAN: KLMFM3044V\nVoter ID (EPIC): KAC4501268\nPassport No: P7102492\nGSTIN: 08KLMFM3044V1ZI\nPermanent Address: House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006\nVerified UPI VPA: arjun5@okicici\nRemarks: KYC status pending compliance sign-off for Arjun Malhotra.\n"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #6",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880105\nAccount Holder Name: Mr. Deepika Joshi\nAadhaar UID: 802290197285\nPAN: KLMFJ3045W\nVoter ID (EPIC): KAC4501285\nPassport No: P7102515\nGSTIN: 19KLMFJ3045W1ZF\nPermanent Address: Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091\nVerified UPI VPA: deepika6@okicici\nRemarks: KYC status pending compliance sign-off for Deepika Joshi.\n"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #7",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880106\nAccount Holder Name: Mr. Mohammed Irfan\nAadhaar UID: 302290199795\nPAN: KLMFI3046X\nVoter ID (EPIC): KAC4501302\nPassport No: P7102538\nGSTIN: 32KLMFI3046X1ZP\nPermanent Address: Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031\nVerified UPI VPA: mohammed7@okicici\nRemarks: KYC status pending compliance sign-off for Mohammed Irfan.\n"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #8",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880107\nAccount Holder Name: Mr. Sneha Patil\nAadhaar UID: 402290202307\nPAN: KLMFP3047Y\nVoter ID (EPIC): KAC4501319\nPassport No: P7102561\nGSTIN: 29KLMFP3047Y1Z2\nPermanent Address: Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005\nVerified UPI VPA: sneha8@okicici\nRemarks: KYC status pending compliance sign-off for Sneha Patil.\n"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #9",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880108\nAccount Holder Name: Mr. Rajeshwari Iyer\nAadhaar UID: 502290204812\nPAN: KLMFI3048Z\nVoter ID (EPIC): KAC4501336\nPassport No: P7102584\nGSTIN: 36KLMFI3048Z1ZB\nPermanent Address: House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033\nVerified UPI VPA: rajeshwari9@okicici\nRemarks: KYC status pending compliance sign-off for Rajeshwari Iyer.\n"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #10",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880109\nAccount Holder Name: Mr. Siddharth Verma\nAadhaar UID: 602290207328\nPAN: KLMFV3049A\nVoter ID (EPIC): KAC4501353\nPassport No: P7102607\nGSTIN: 27KLMFV3049A1ZB\nPermanent Address: Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038\nVerified UPI VPA: siddharth10@okicici\nRemarks: KYC status pending compliance sign-off for Siddharth Verma.\n"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #11",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880110\nAccount Holder Name: Mr. Pooja Agarwal\nAadhaar UID: 702290209833\nPAN: KLMFA3050B\nVoter ID (EPIC): KAC4501370\nPassport No: P7102630\nGSTIN: 33KLMFA3050B1Z8\nPermanent Address: Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102\nVerified UPI VPA: pooja11@okicici\nRemarks: KYC status pending compliance sign-off for Pooja Agarwal.\n"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #12",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880111\nAccount Holder Name: Mr. Rohan Hegde\nAadhaar UID: 802290212341\nPAN: KLMFH3051C\nVoter ID (EPIC): KAC4501387\nPassport No: P7102653\nGSTIN: 06KLMFH3051C1ZV\nPermanent Address: Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015\nVerified UPI VPA: rohan12@okicici\nRemarks: KYC status pending compliance sign-off for Rohan Hegde.\n"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #13",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880112\nAccount Holder Name: Mr. Lakshmi Narayanan\nAadhaar UID: 302290214853\nPAN: KLMFN3052D\nVoter ID (EPIC): KAC4501404\nPassport No: P7102676\nGSTIN: 29KLMFN3052D1ZE\nPermanent Address: No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038\nVerified UPI VPA: lakshmi13@okicici\nRemarks: KYC status pending compliance sign-off for Lakshmi Narayanan.\n"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #14",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880113\nAccount Holder Name: Mr. Kunal Banerjee\nAadhaar UID: 402290217365\nPAN: KLMFB3053E\nVoter ID (EPIC): KAC4501421\nPassport No: P7102699\nGSTIN: 24KLMFB3053E1ZX\nPermanent Address: B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015\nVerified UPI VPA: kunal14@okicici\nRemarks: KYC status pending compliance sign-off for Kunal Banerjee.\n"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "purpose": "kyc_verification",
+    "title": "Enterprise KYC Record #15",
+    "text": "ENTERPRISE E-KYC VERIFICATION RECORD\nCustomer ID: CIF880114\nAccount Holder Name: Mr. Divya Menon\nAadhaar UID: 502290219876\nPAN: KLMFM3054F\nVoter ID (EPIC): KAC4501438\nPassport No: P7102722\nGSTIN: 08KLMFM3054F1ZD\nPermanent Address: House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006\nVerified UPI VPA: divya15@okicici\nRemarks: KYC status pending compliance sign-off for Divya Menon.\n"
+  },
+  {
+    "doc_id": "SUP-001",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #1",
+    "text": "SUPPORT TICKET (HINGLISH)\nNamaste team, mera naam Karthik Subramanian hai. Mera Aadhaar 4033 9104 8270 aur PAN BHKPS5100M KYC portal pe link nahi ho raha. Mera address: Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015 hai. Please call me on +91-9731004500. Note: Invalid ref 1000 0000 0000 ignore karein.\n"
+  },
+  {
+    "doc_id": "SUP-002",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #2",
+    "text": "CUSTOMER SUPPORT ESCALATION\nComplainant Name: Sneha Patil\nEmail: support.user1@corp-mail.in\nVoter ID submitted: MHA7821041\nIssue: Unable to update registered address to Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102.\n"
+  },
+  {
+    "doc_id": "SUP-003",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #3",
+    "text": "SUPPORT TICKET (HINGLISH)\nNamaste team, mera naam Arjun Malhotra hai. Mera Aadhaar 6033 9105 0211 aur PAN BHKPM5102M KYC portal pe link nahi ho raha. Mera address: B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015 hai. Please call me on +91-9731005166. Note: Invalid ref 1000 0000 0000 ignore karein.\n"
+  },
+  {
+    "doc_id": "SUP-004",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #4",
+    "text": "CUSTOMER SUPPORT ESCALATION\nComplainant Name: Siddharth Verma\nEmail: support.user3@corp-mail.in\nVoter ID submitted: MHA7821123\nIssue: Unable to update registered address to No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038.\n"
+  },
+  {
+    "doc_id": "SUP-005",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #5",
+    "text": "SUPPORT TICKET (HINGLISH)\nNamaste team, mera naam Mohammed Irfan hai. Mera Aadhaar 8033 9105 2153 aur PAN BHKPI5104M KYC portal pe link nahi ho raha. Mera address: Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091 hai. Please call me on +91-9731005832. Note: Invalid ref 1000 0000 0000 ignore karein.\n"
+  },
+  {
+    "doc_id": "SUP-006",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #6",
+    "text": "CUSTOMER SUPPORT ESCALATION\nComplainant Name: Rohan Hegde\nEmail: support.user5@corp-mail.in\nVoter ID submitted: MHA7821205\nIssue: Unable to update registered address to House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006.\n"
+  },
+  {
+    "doc_id": "SUP-007",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #7",
+    "text": "SUPPORT TICKET (HINGLISH)\nNamaste team, mera naam Rajeshwari Iyer hai. Mera Aadhaar 5033 9105 4096 aur PAN BHKPI5106M KYC portal pe link nahi ho raha. Mera address: Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005 hai. Please call me on +91-9731006498. Note: Invalid ref 1000 0000 0000 ignore karein.\n"
+  },
+  {
+    "doc_id": "SUP-008",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #8",
+    "text": "CUSTOMER SUPPORT ESCALATION\nComplainant Name: Kunal Banerjee\nEmail: support.user7@corp-mail.in\nVoter ID submitted: MHA7821287\nIssue: Unable to update registered address to Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031.\n"
+  },
+  {
+    "doc_id": "SUP-009",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #9",
+    "text": "SUPPORT TICKET (HINGLISH)\nNamaste team, mera naam Pooja Agarwal hai. Mera Aadhaar 7033 9105 6038 aur PAN BHKPA5108M KYC portal pe link nahi ho raha. Mera address: Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038 hai. Please call me on +91-9731007164. Note: Invalid ref 1000 0000 0000 ignore karein.\n"
+  },
+  {
+    "doc_id": "SUP-010",
+    "category": "support_ticket",
+    "purpose": "customer_support",
+    "title": "Customer Support Ticket #10",
+    "text": "SUPPORT TICKET #99410\nSubject: API Rate Limit Documentation Query\nMessage: Hello team, could you confirm the standard monthly SLA, OAuth2 token expiry window, and invoice format for enterprise plans? Reference Code: DOC-FAQ-2026. No personal customer details attached.\n"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #1",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Arjun Malhotra\nPolicy No: POL202600\nAadhaar: 5061-8293-0454 | PAN: DRTPM7100N\nPassport Number: J8204100\nAddress: B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015\nContact Mobile: +91 9912003400\nSettlement Bank A/c No: 501002938100 IFSC: HDFC0001200\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #2",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Deepika Joshi\nPolicy No: POL202601\nAadhaar: 6061-8293-2384 | PAN: DRTPJ7101N\nPassport Number: J8204119\nAddress: House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006\nContact Mobile: +91 9912003611\nSettlement Bank A/c No: 501002938101 IFSC: HDFC0001201\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #3",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Mohammed Irfan\nPolicy No: POL202602\nAadhaar: 7061-8293-4315 | PAN: DRTPI7102N\nPassport Number: J8204138\nAddress: Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091\nContact Mobile: +91 9912003822\nSettlement Bank A/c No: 501002938102 IFSC: HDFC0001202\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #4",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Sneha Patil\nPolicy No: POL202603\nAadhaar: 8061-8293-6245 | PAN: DRTPP7103N\nPassport Number: J8204157\nAddress: Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031\nContact Mobile: +91 9912004033\nSettlement Bank A/c No: 501002938103 IFSC: HDFC0001203\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #5",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Rajeshwari Iyer\nPolicy No: POL202604\nAadhaar: 5061-8293-8172 | PAN: DRTPI7104N\nPassport Number: J8204176\nAddress: Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005\nContact Mobile: +91 9912004244\nSettlement Bank A/c No: 501002938104 IFSC: HDFC0001204\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #6",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Siddharth Verma\nPolicy No: POL202605\nAadhaar: 6061-8294-0108 | PAN: DRTPV7105N\nPassport Number: J8204195\nAddress: House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033\nContact Mobile: +91 9912004455\nSettlement Bank A/c No: 501002938105 IFSC: HDFC0001205\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #7",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Pooja Agarwal\nPolicy No: POL202606\nAadhaar: 7061-8294-2033 | PAN: DRTPA7106N\nPassport Number: J8204214\nAddress: Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038\nContact Mobile: +91 9912004666\nSettlement Bank A/c No: 501002938106 IFSC: HDFC0001206\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #8",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Rohan Hegde\nPolicy No: POL202607\nAadhaar: 8061-8294-3962 | PAN: DRTPH7107N\nPassport Number: J8204233\nAddress: Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102\nContact Mobile: +91 9912004877\nSettlement Bank A/c No: 501002938107 IFSC: HDFC0001207\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #9",
+    "text": "HEALTH & MOTOR INSURANCE CLAIM FORM\nClaimant Name: Lakshmi Narayanan\nPolicy No: POL202608\nAadhaar: 5061-8294-5898 | PAN: DRTPN7108N\nPassport Number: J8204252\nAddress: Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015\nContact Mobile: +91 9912005088\nSettlement Bank A/c No: 501002938108 IFSC: HDFC0001208\nClaim Amount Requested: INR 1,85,000.\n"
+  },
+  {
+    "doc_id": "INS-010",
+    "category": "insurance_claim",
+    "purpose": "insurance_claims",
+    "title": "Insurance Claim #10",
+    "text": "INSURANCE POLICY GENERAL ENDORSEMENT FAQ\nCashless hospitalization pre-authorization requires hospital tariff sheet, discharge summary template, and IRDAI network code NWP-402.\n"
+  }
+]

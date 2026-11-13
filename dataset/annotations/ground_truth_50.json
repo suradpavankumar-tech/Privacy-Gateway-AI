@@ -1,0 +1,3538 @@
+[
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 57,
+    "expected_value": "Aarav Sharma"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 63,
+    "end": 73,
+    "expected_value": "10/01/1982"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 90,
+    "end": 104,
+    "expected_value": "2010 4857 6906"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 117,
+    "end": 127,
+    "expected_value": "ABCPS1020A"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 149,
+    "end": 231,
+    "expected_value": "Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 240,
+    "end": 254,
+    "expected_value": "+91 9845012300"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 264,
+    "end": 289,
+    "expected_value": "aarav.sharma.1@example.in"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 316,
+    "end": 328,
+    "expected_value": "304958102900"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 336,
+    "end": 347,
+    "expected_value": "SBIN0004100"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "GSTIN",
+    "start": 365,
+    "end": 380,
+    "expected_value": "29ABCPS1020A1ZB"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 397,
+    "end": 409,
+    "expected_value": "Aarav Sharma"
+  },
+  {
+    "doc_id": "LOAN-001",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 426,
+    "end": 436,
+    "expected_value": "ABCPS1020A"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 55,
+    "expected_value": "Priya Nair"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 61,
+    "end": 71,
+    "expected_value": "11/02/1983"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 88,
+    "end": 102,
+    "expected_value": "3010-4857-8273"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 115,
+    "end": 125,
+    "expected_value": "ABCPN1021B"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 147,
+    "end": 223,
+    "expected_value": "House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 232,
+    "end": 246,
+    "expected_value": "+91 9845012411"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 256,
+    "end": 279,
+    "expected_value": "priya.nair.2@example.in"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 306,
+    "end": 318,
+    "expected_value": "304958102901"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 326,
+    "end": 337,
+    "expected_value": "SBIN0004101"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 355,
+    "end": 365,
+    "expected_value": "Priya Nair"
+  },
+  {
+    "doc_id": "LOAN-002",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 382,
+    "end": 392,
+    "expected_value": "ABCPN1021B"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 66,
+    "expected_value": "Vikramaditya Kulkarni"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 72,
+    "end": 82,
+    "expected_value": "12/03/1984"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 99,
+    "end": 113,
+    "expected_value": "4010 4857 9647"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 126,
+    "end": 136,
+    "expected_value": "ABCPK1022C"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 158,
+    "end": 225,
+    "expected_value": "Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 234,
+    "end": 248,
+    "expected_value": "+91 9845012522"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 258,
+    "end": 292,
+    "expected_value": "vikramaditya.kulkarni.3@example.in"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 319,
+    "end": 331,
+    "expected_value": "304958102902"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 339,
+    "end": 350,
+    "expected_value": "SBIN0004102"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 368,
+    "end": 389,
+    "expected_value": "Vikramaditya Kulkarni"
+  },
+  {
+    "doc_id": "LOAN-003",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 406,
+    "end": 416,
+    "expected_value": "ABCPK1022C"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 62,
+    "expected_value": "Ananya Chatterjee"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 68,
+    "end": 78,
+    "expected_value": "13/04/1985"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 95,
+    "end": 109,
+    "expected_value": "5010-4858-1012"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 122,
+    "end": 132,
+    "expected_value": "ABCPC1023D"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 154,
+    "end": 226,
+    "expected_value": "Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 235,
+    "end": 249,
+    "expected_value": "+91 9845012633"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 259,
+    "end": 289,
+    "expected_value": "ananya.chatterjee.4@example.in"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 316,
+    "end": 328,
+    "expected_value": "304958102903"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 336,
+    "end": 347,
+    "expected_value": "SBIN0004103"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "GSTIN",
+    "start": 365,
+    "end": 380,
+    "expected_value": "33ABCPC1023D1ZT"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 397,
+    "end": 414,
+    "expected_value": "Ananya Chatterjee"
+  },
+  {
+    "doc_id": "LOAN-004",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 431,
+    "end": 441,
+    "expected_value": "ABCPC1023D"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 57,
+    "expected_value": "Suresh Reddy"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 63,
+    "end": 73,
+    "expected_value": "14/05/1986"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 90,
+    "end": 104,
+    "expected_value": "6010 4858 2382"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 117,
+    "end": 127,
+    "expected_value": "ABCPR1024E"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 149,
+    "end": 213,
+    "expected_value": "Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 222,
+    "end": 236,
+    "expected_value": "+91 9845012744"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 246,
+    "end": 271,
+    "expected_value": "suresh.reddy.5@example.in"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 298,
+    "end": 310,
+    "expected_value": "304958102904"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 318,
+    "end": 329,
+    "expected_value": "SBIN0004104"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 347,
+    "end": 359,
+    "expected_value": "Suresh Reddy"
+  },
+  {
+    "doc_id": "LOAN-005",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 376,
+    "end": 386,
+    "expected_value": "ABCPR1024E"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 57,
+    "expected_value": "Fatima Begum"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 63,
+    "end": 73,
+    "expected_value": "15/06/1987"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 90,
+    "end": 104,
+    "expected_value": "7010-4858-3754"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 117,
+    "end": 127,
+    "expected_value": "ABCPB1025F"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 149,
+    "end": 218,
+    "expected_value": "No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 227,
+    "end": 241,
+    "expected_value": "+91 9845012855"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 251,
+    "end": 276,
+    "expected_value": "fatima.begum.6@example.in"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 303,
+    "end": 315,
+    "expected_value": "304958102905"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 323,
+    "end": 334,
+    "expected_value": "SBIN0004105"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 352,
+    "end": 364,
+    "expected_value": "Fatima Begum"
+  },
+  {
+    "doc_id": "LOAN-006",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 381,
+    "end": 391,
+    "expected_value": "ABCPB1025F"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 59,
+    "expected_value": "Harpreet Singh"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 65,
+    "end": 75,
+    "expected_value": "16/07/1988"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 92,
+    "end": 106,
+    "expected_value": "8010 4858 5126"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 119,
+    "end": 129,
+    "expected_value": "ABCPS1026G"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 151,
+    "end": 224,
+    "expected_value": "B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 233,
+    "end": 247,
+    "expected_value": "+91 9845012966"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 257,
+    "end": 284,
+    "expected_value": "harpreet.singh.7@example.in"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 311,
+    "end": 323,
+    "expected_value": "304958102906"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 331,
+    "end": 342,
+    "expected_value": "SBIN0004106"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "GSTIN",
+    "start": 360,
+    "end": 375,
+    "expected_value": "24ABCPS1026G1Z3"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 392,
+    "end": 406,
+    "expected_value": "Harpreet Singh"
+  },
+  {
+    "doc_id": "LOAN-007",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 423,
+    "end": 433,
+    "expected_value": "ABCPS1026G"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 64,
+    "expected_value": "Karthik Subramanian"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 70,
+    "end": 80,
+    "expected_value": "17/08/1989"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 97,
+    "end": 111,
+    "expected_value": "2010-4858-6491"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 124,
+    "end": 134,
+    "expected_value": "ABCPS1027H"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 156,
+    "end": 223,
+    "expected_value": "House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 232,
+    "end": 246,
+    "expected_value": "+91 9845013077"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 256,
+    "end": 288,
+    "expected_value": "karthik.subramanian.8@example.in"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 315,
+    "end": 327,
+    "expected_value": "304958102907"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 335,
+    "end": 346,
+    "expected_value": "SBIN0004107"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 364,
+    "end": 383,
+    "expected_value": "Karthik Subramanian"
+  },
+  {
+    "doc_id": "LOAN-008",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 400,
+    "end": 410,
+    "expected_value": "ABCPS1027H"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 59,
+    "expected_value": "Neha Deshpande"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 65,
+    "end": 75,
+    "expected_value": "18/09/1990"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 92,
+    "end": 106,
+    "expected_value": "3010 4858 7868"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 119,
+    "end": 129,
+    "expected_value": "ABCPD1028J"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 151,
+    "end": 227,
+    "expected_value": "Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 236,
+    "end": 250,
+    "expected_value": "+91 9845013188"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 260,
+    "end": 287,
+    "expected_value": "neha.deshpande.9@example.in"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 314,
+    "end": 326,
+    "expected_value": "304958102908"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 334,
+    "end": 345,
+    "expected_value": "SBIN0004108"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 363,
+    "end": 377,
+    "expected_value": "Neha Deshpande"
+  },
+  {
+    "doc_id": "LOAN-009",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 394,
+    "end": 404,
+    "expected_value": "ABCPD1028J"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 59,
+    "expected_value": "Arjun Malhotra"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 65,
+    "end": 75,
+    "expected_value": "19/01/1991"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 92,
+    "end": 106,
+    "expected_value": "4010-4858-9239"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 119,
+    "end": 129,
+    "expected_value": "ABCPM1029K"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 151,
+    "end": 220,
+    "expected_value": "Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 229,
+    "end": 243,
+    "expected_value": "+91 9845013299"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 253,
+    "end": 281,
+    "expected_value": "arjun.malhotra.10@example.in"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 308,
+    "end": 320,
+    "expected_value": "304958102909"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 328,
+    "end": 339,
+    "expected_value": "SBIN0004109"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "GSTIN",
+    "start": 357,
+    "end": 372,
+    "expected_value": "32ABCPM1029K1Z0"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 389,
+    "end": 403,
+    "expected_value": "Arjun Malhotra"
+  },
+  {
+    "doc_id": "LOAN-010",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 420,
+    "end": 430,
+    "expected_value": "ABCPM1029K"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 58,
+    "expected_value": "Deepika Joshi"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 64,
+    "end": 74,
+    "expected_value": "20/02/1992"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 91,
+    "end": 105,
+    "expected_value": "5010 4859 0600"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 118,
+    "end": 128,
+    "expected_value": "ABCPJ1030L"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 150,
+    "end": 232,
+    "expected_value": "Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 241,
+    "end": 255,
+    "expected_value": "+91 9845013410"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 265,
+    "end": 292,
+    "expected_value": "deepika.joshi.11@example.in"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 319,
+    "end": 331,
+    "expected_value": "304958102910"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 339,
+    "end": 350,
+    "expected_value": "SBIN0004110"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 368,
+    "end": 381,
+    "expected_value": "Deepika Joshi"
+  },
+  {
+    "doc_id": "LOAN-011",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 398,
+    "end": 408,
+    "expected_value": "ABCPJ1030L"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 59,
+    "expected_value": "Mohammed Irfan"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 65,
+    "end": 75,
+    "expected_value": "21/03/1993"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 92,
+    "end": 106,
+    "expected_value": "6010-4859-1976"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 119,
+    "end": 129,
+    "expected_value": "ABCPI1031M"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 151,
+    "end": 227,
+    "expected_value": "House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 236,
+    "end": 250,
+    "expected_value": "+91 9845013521"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 260,
+    "end": 288,
+    "expected_value": "mohammed.irfan.12@example.in"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 315,
+    "end": 327,
+    "expected_value": "304958102911"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 335,
+    "end": 346,
+    "expected_value": "SBIN0004111"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 364,
+    "end": 378,
+    "expected_value": "Mohammed Irfan"
+  },
+  {
+    "doc_id": "LOAN-012",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 395,
+    "end": 405,
+    "expected_value": "ABCPI1031M"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 56,
+    "expected_value": "Sneha Patil"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 62,
+    "end": 72,
+    "expected_value": "22/04/1994"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 89,
+    "end": 103,
+    "expected_value": "7010 4859 3341"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 116,
+    "end": 126,
+    "expected_value": "ABCPP1032N"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 148,
+    "end": 215,
+    "expected_value": "Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 224,
+    "end": 238,
+    "expected_value": "+91 9845013632"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 248,
+    "end": 273,
+    "expected_value": "sneha.patil.13@example.in"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 300,
+    "end": 312,
+    "expected_value": "304958102912"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 320,
+    "end": 331,
+    "expected_value": "SBIN0004112"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "GSTIN",
+    "start": 349,
+    "end": 364,
+    "expected_value": "27ABCPP1032N1ZN"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 381,
+    "end": 392,
+    "expected_value": "Sneha Patil"
+  },
+  {
+    "doc_id": "LOAN-013",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 409,
+    "end": 419,
+    "expected_value": "ABCPP1032N"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 60,
+    "expected_value": "Rajeshwari Iyer"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 66,
+    "end": 76,
+    "expected_value": "23/05/1995"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 93,
+    "end": 107,
+    "expected_value": "8010-4859-4715"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 120,
+    "end": 130,
+    "expected_value": "ABCPI1033P"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 152,
+    "end": 224,
+    "expected_value": "Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 233,
+    "end": 247,
+    "expected_value": "+91 9845013743"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 257,
+    "end": 286,
+    "expected_value": "rajeshwari.iyer.14@example.in"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 313,
+    "end": 325,
+    "expected_value": "304958102913"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 333,
+    "end": 344,
+    "expected_value": "SBIN0004113"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 362,
+    "end": 377,
+    "expected_value": "Rajeshwari Iyer"
+  },
+  {
+    "doc_id": "LOAN-014",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 394,
+    "end": 404,
+    "expected_value": "ABCPI1033P"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 45,
+    "end": 60,
+    "expected_value": "Siddharth Verma"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "DATE_OF_BIRTH",
+    "start": 66,
+    "end": 76,
+    "expected_value": "24/06/1996"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "AADHAAR",
+    "start": 93,
+    "end": 107,
+    "expected_value": "2010 4859 6080"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 120,
+    "end": 130,
+    "expected_value": "ABCPV1034Q"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "ADDRESS",
+    "start": 152,
+    "end": 216,
+    "expected_value": "Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "PHONE_NUMBER",
+    "start": 225,
+    "end": 239,
+    "expected_value": "+91 9845013854"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 249,
+    "end": 278,
+    "expected_value": "siddharth.verma.15@example.in"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 305,
+    "end": 317,
+    "expected_value": "304958102914"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "IFSC",
+    "start": 325,
+    "end": 336,
+    "expected_value": "SBIN0004114"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "PERSON",
+    "start": 354,
+    "end": 369,
+    "expected_value": "Siddharth Verma"
+  },
+  {
+    "doc_id": "LOAN-015",
+    "category": "loan_application",
+    "entity_type": "PAN",
+    "start": 386,
+    "end": 396,
+    "expected_value": "ABCPV1034Q"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880100"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 97,
+    "expected_value": "Fatima Begum"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 111,
+    "end": 123,
+    "expected_value": "302290184730"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 129,
+    "end": 139,
+    "expected_value": "KLMFB3040R"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 157,
+    "end": 167,
+    "expected_value": "KAC4501200"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 181,
+    "end": 189,
+    "expected_value": "P7102400"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 197,
+    "end": 212,
+    "expected_value": "33KLMFB3040R1ZC"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 232,
+    "end": 304,
+    "expected_value": "Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 323,
+    "end": 338,
+    "expected_value": "fatima1@okicici"
+  },
+  {
+    "doc_id": "KYC-001",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 391,
+    "end": 403,
+    "expected_value": "Fatima Begum"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880101"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 99,
+    "expected_value": "Harpreet Singh"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 113,
+    "end": 125,
+    "expected_value": "402290187248"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 131,
+    "end": 141,
+    "expected_value": "KLMFS3041S"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 159,
+    "end": 169,
+    "expected_value": "KAC4501217"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 183,
+    "end": 191,
+    "expected_value": "P7102423"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 199,
+    "end": 214,
+    "expected_value": "06KLMFS3041S1ZP"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 234,
+    "end": 298,
+    "expected_value": "Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 317,
+    "end": 334,
+    "expected_value": "harpreet2@okicici"
+  },
+  {
+    "doc_id": "KYC-002",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 387,
+    "end": 401,
+    "expected_value": "Harpreet Singh"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880102"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 104,
+    "expected_value": "Karthik Subramanian"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 118,
+    "end": 130,
+    "expected_value": "502290189752"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 136,
+    "end": 146,
+    "expected_value": "KLMFS3042T"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 164,
+    "end": 174,
+    "expected_value": "KAC4501234"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 188,
+    "end": 196,
+    "expected_value": "P7102446"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 204,
+    "end": 219,
+    "expected_value": "29KLMFS3042T1ZE"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 239,
+    "end": 308,
+    "expected_value": "No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 327,
+    "end": 343,
+    "expected_value": "karthik3@okicici"
+  },
+  {
+    "doc_id": "KYC-003",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 396,
+    "end": 415,
+    "expected_value": "Karthik Subramanian"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880103"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 99,
+    "expected_value": "Neha Deshpande"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 113,
+    "end": 125,
+    "expected_value": "602290192269"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 131,
+    "end": 141,
+    "expected_value": "KLMFD3043U"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 159,
+    "end": 169,
+    "expected_value": "KAC4501251"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 183,
+    "end": 191,
+    "expected_value": "P7102469"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 199,
+    "end": 214,
+    "expected_value": "24KLMFD3043U1Z0"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 234,
+    "end": 307,
+    "expected_value": "B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 326,
+    "end": 339,
+    "expected_value": "neha4@okicici"
+  },
+  {
+    "doc_id": "KYC-004",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 392,
+    "end": 406,
+    "expected_value": "Neha Deshpande"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880104"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 99,
+    "expected_value": "Arjun Malhotra"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 113,
+    "end": 125,
+    "expected_value": "702290194771"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 131,
+    "end": 141,
+    "expected_value": "KLMFM3044V"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 159,
+    "end": 169,
+    "expected_value": "KAC4501268"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 183,
+    "end": 191,
+    "expected_value": "P7102492"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 199,
+    "end": 214,
+    "expected_value": "08KLMFM3044V1ZI"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 234,
+    "end": 301,
+    "expected_value": "House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 320,
+    "end": 334,
+    "expected_value": "arjun5@okicici"
+  },
+  {
+    "doc_id": "KYC-005",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 387,
+    "end": 401,
+    "expected_value": "Arjun Malhotra"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880105"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 98,
+    "expected_value": "Deepika Joshi"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 112,
+    "end": 124,
+    "expected_value": "802290197285"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 130,
+    "end": 140,
+    "expected_value": "KLMFJ3045W"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 158,
+    "end": 168,
+    "expected_value": "KAC4501285"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 182,
+    "end": 190,
+    "expected_value": "P7102515"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 198,
+    "end": 213,
+    "expected_value": "19KLMFJ3045W1ZF"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 233,
+    "end": 309,
+    "expected_value": "Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 328,
+    "end": 344,
+    "expected_value": "deepika6@okicici"
+  },
+  {
+    "doc_id": "KYC-006",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 397,
+    "end": 410,
+    "expected_value": "Deepika Joshi"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880106"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 99,
+    "expected_value": "Mohammed Irfan"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 113,
+    "end": 125,
+    "expected_value": "302290199795"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 131,
+    "end": 141,
+    "expected_value": "KLMFI3046X"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 159,
+    "end": 169,
+    "expected_value": "KAC4501302"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 183,
+    "end": 191,
+    "expected_value": "P7102538"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 199,
+    "end": 214,
+    "expected_value": "32KLMFI3046X1ZP"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 234,
+    "end": 303,
+    "expected_value": "Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 322,
+    "end": 339,
+    "expected_value": "mohammed7@okicici"
+  },
+  {
+    "doc_id": "KYC-007",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 392,
+    "end": 406,
+    "expected_value": "Mohammed Irfan"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880107"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 96,
+    "expected_value": "Sneha Patil"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 110,
+    "end": 122,
+    "expected_value": "402290202307"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 128,
+    "end": 138,
+    "expected_value": "KLMFP3047Y"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 156,
+    "end": 166,
+    "expected_value": "KAC4501319"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 180,
+    "end": 188,
+    "expected_value": "P7102561"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 196,
+    "end": 211,
+    "expected_value": "29KLMFP3047Y1Z2"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 231,
+    "end": 313,
+    "expected_value": "Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 332,
+    "end": 346,
+    "expected_value": "sneha8@okicici"
+  },
+  {
+    "doc_id": "KYC-008",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 399,
+    "end": 410,
+    "expected_value": "Sneha Patil"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880108"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 100,
+    "expected_value": "Rajeshwari Iyer"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 114,
+    "end": 126,
+    "expected_value": "502290204812"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 132,
+    "end": 142,
+    "expected_value": "KLMFI3048Z"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 160,
+    "end": 170,
+    "expected_value": "KAC4501336"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 184,
+    "end": 192,
+    "expected_value": "P7102584"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 200,
+    "end": 215,
+    "expected_value": "36KLMFI3048Z1ZB"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 235,
+    "end": 311,
+    "expected_value": "House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 330,
+    "end": 349,
+    "expected_value": "rajeshwari9@okicici"
+  },
+  {
+    "doc_id": "KYC-009",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 402,
+    "end": 417,
+    "expected_value": "Rajeshwari Iyer"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880109"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 100,
+    "expected_value": "Siddharth Verma"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 114,
+    "end": 126,
+    "expected_value": "602290207328"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 132,
+    "end": 142,
+    "expected_value": "KLMFV3049A"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 160,
+    "end": 170,
+    "expected_value": "KAC4501353"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 184,
+    "end": 192,
+    "expected_value": "P7102607"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 200,
+    "end": 215,
+    "expected_value": "27KLMFV3049A1ZB"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 235,
+    "end": 302,
+    "expected_value": "Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 321,
+    "end": 340,
+    "expected_value": "siddharth10@okicici"
+  },
+  {
+    "doc_id": "KYC-010",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 393,
+    "end": 408,
+    "expected_value": "Siddharth Verma"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880110"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 98,
+    "expected_value": "Pooja Agarwal"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 112,
+    "end": 124,
+    "expected_value": "702290209833"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 130,
+    "end": 140,
+    "expected_value": "KLMFA3050B"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 158,
+    "end": 168,
+    "expected_value": "KAC4501370"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 182,
+    "end": 190,
+    "expected_value": "P7102630"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 198,
+    "end": 213,
+    "expected_value": "33KLMFA3050B1Z8"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 233,
+    "end": 305,
+    "expected_value": "Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 324,
+    "end": 339,
+    "expected_value": "pooja11@okicici"
+  },
+  {
+    "doc_id": "KYC-011",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 392,
+    "end": 405,
+    "expected_value": "Pooja Agarwal"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880111"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 96,
+    "expected_value": "Rohan Hegde"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 110,
+    "end": 122,
+    "expected_value": "802290212341"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 128,
+    "end": 138,
+    "expected_value": "KLMFH3051C"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 156,
+    "end": 166,
+    "expected_value": "KAC4501387"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 180,
+    "end": 188,
+    "expected_value": "P7102653"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 196,
+    "end": 211,
+    "expected_value": "06KLMFH3051C1ZV"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 231,
+    "end": 295,
+    "expected_value": "Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 314,
+    "end": 329,
+    "expected_value": "rohan12@okicici"
+  },
+  {
+    "doc_id": "KYC-012",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 382,
+    "end": 393,
+    "expected_value": "Rohan Hegde"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880112"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 102,
+    "expected_value": "Lakshmi Narayanan"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 116,
+    "end": 128,
+    "expected_value": "302290214853"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 134,
+    "end": 144,
+    "expected_value": "KLMFN3052D"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 162,
+    "end": 172,
+    "expected_value": "KAC4501404"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 186,
+    "end": 194,
+    "expected_value": "P7102676"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 202,
+    "end": 217,
+    "expected_value": "29KLMFN3052D1ZE"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 237,
+    "end": 306,
+    "expected_value": "No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 325,
+    "end": 342,
+    "expected_value": "lakshmi13@okicici"
+  },
+  {
+    "doc_id": "KYC-013",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 395,
+    "end": 412,
+    "expected_value": "Lakshmi Narayanan"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880113"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 99,
+    "expected_value": "Kunal Banerjee"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 113,
+    "end": 125,
+    "expected_value": "402290217365"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 131,
+    "end": 141,
+    "expected_value": "KLMFB3053E"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 159,
+    "end": 169,
+    "expected_value": "KAC4501421"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 183,
+    "end": 191,
+    "expected_value": "P7102699"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 199,
+    "end": 214,
+    "expected_value": "24KLMFB3053E1ZX"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 234,
+    "end": 307,
+    "expected_value": "B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 326,
+    "end": 341,
+    "expected_value": "kunal14@okicici"
+  },
+  {
+    "doc_id": "KYC-014",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 394,
+    "end": 408,
+    "expected_value": "Kunal Banerjee"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "CUSTOMER_ID",
+    "start": 50,
+    "end": 59,
+    "expected_value": "CIF880114"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 85,
+    "end": 96,
+    "expected_value": "Divya Menon"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "AADHAAR",
+    "start": 110,
+    "end": 122,
+    "expected_value": "502290219876"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "PAN",
+    "start": 128,
+    "end": 138,
+    "expected_value": "KLMFM3054F"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "VOTER_ID",
+    "start": 156,
+    "end": 166,
+    "expected_value": "KAC4501438"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "PASSPORT",
+    "start": 180,
+    "end": 188,
+    "expected_value": "P7102722"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "GSTIN",
+    "start": 196,
+    "end": 211,
+    "expected_value": "08KLMFM3054F1ZD"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "ADDRESS",
+    "start": 231,
+    "end": 298,
+    "expected_value": "House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "UPI_ID",
+    "start": 317,
+    "end": 332,
+    "expected_value": "divya15@okicici"
+  },
+  {
+    "doc_id": "KYC-015",
+    "category": "kyc_document",
+    "entity_type": "PERSON",
+    "start": 385,
+    "end": 396,
+    "expected_value": "Divya Menon"
+  },
+  {
+    "doc_id": "SUP-001",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 50,
+    "end": 69,
+    "expected_value": "Karthik Subramanian"
+  },
+  {
+    "doc_id": "SUP-001",
+    "category": "support_ticket",
+    "entity_type": "AADHAAR",
+    "start": 88,
+    "end": 102,
+    "expected_value": "4033 9104 8270"
+  },
+  {
+    "doc_id": "SUP-001",
+    "category": "support_ticket",
+    "entity_type": "PAN",
+    "start": 111,
+    "end": 121,
+    "expected_value": "BHKPS5100M"
+  },
+  {
+    "doc_id": "SUP-001",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 169,
+    "end": 233,
+    "expected_value": "Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015"
+  },
+  {
+    "doc_id": "SUP-001",
+    "category": "support_ticket",
+    "entity_type": "PHONE_NUMBER",
+    "start": 257,
+    "end": 271,
+    "expected_value": "+91-9731004500"
+  },
+  {
+    "doc_id": "SUP-002",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 46,
+    "end": 57,
+    "expected_value": "Sneha Patil"
+  },
+  {
+    "doc_id": "SUP-002",
+    "category": "support_ticket",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 65,
+    "end": 91,
+    "expected_value": "support.user1@corp-mail.in"
+  },
+  {
+    "doc_id": "SUP-002",
+    "category": "support_ticket",
+    "entity_type": "VOTER_ID",
+    "start": 112,
+    "end": 122,
+    "expected_value": "MHA7821041"
+  },
+  {
+    "doc_id": "SUP-002",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 169,
+    "end": 241,
+    "expected_value": "Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102"
+  },
+  {
+    "doc_id": "SUP-003",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 50,
+    "end": 64,
+    "expected_value": "Arjun Malhotra"
+  },
+  {
+    "doc_id": "SUP-003",
+    "category": "support_ticket",
+    "entity_type": "AADHAAR",
+    "start": 83,
+    "end": 97,
+    "expected_value": "6033 9105 0211"
+  },
+  {
+    "doc_id": "SUP-003",
+    "category": "support_ticket",
+    "entity_type": "PAN",
+    "start": 106,
+    "end": 116,
+    "expected_value": "BHKPM5102M"
+  },
+  {
+    "doc_id": "SUP-003",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 164,
+    "end": 237,
+    "expected_value": "B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015"
+  },
+  {
+    "doc_id": "SUP-003",
+    "category": "support_ticket",
+    "entity_type": "PHONE_NUMBER",
+    "start": 261,
+    "end": 275,
+    "expected_value": "+91-9731005166"
+  },
+  {
+    "doc_id": "SUP-004",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 46,
+    "end": 61,
+    "expected_value": "Siddharth Verma"
+  },
+  {
+    "doc_id": "SUP-004",
+    "category": "support_ticket",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 69,
+    "end": 95,
+    "expected_value": "support.user3@corp-mail.in"
+  },
+  {
+    "doc_id": "SUP-004",
+    "category": "support_ticket",
+    "entity_type": "VOTER_ID",
+    "start": 116,
+    "end": 126,
+    "expected_value": "MHA7821123"
+  },
+  {
+    "doc_id": "SUP-004",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 173,
+    "end": 242,
+    "expected_value": "No. 56, 3rd Cross, Indiranagar Stage 2, Bengaluru, Karnataka - 560038"
+  },
+  {
+    "doc_id": "SUP-005",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 50,
+    "end": 64,
+    "expected_value": "Mohammed Irfan"
+  },
+  {
+    "doc_id": "SUP-005",
+    "category": "support_ticket",
+    "entity_type": "AADHAAR",
+    "start": 83,
+    "end": 97,
+    "expected_value": "8033 9105 2153"
+  },
+  {
+    "doc_id": "SUP-005",
+    "category": "support_ticket",
+    "entity_type": "PAN",
+    "start": 106,
+    "end": 116,
+    "expected_value": "BHKPI5104M"
+  },
+  {
+    "doc_id": "SUP-005",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 164,
+    "end": 240,
+    "expected_value": "Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091"
+  },
+  {
+    "doc_id": "SUP-005",
+    "category": "support_ticket",
+    "entity_type": "PHONE_NUMBER",
+    "start": 264,
+    "end": 278,
+    "expected_value": "+91-9731005832"
+  },
+  {
+    "doc_id": "SUP-006",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 46,
+    "end": 57,
+    "expected_value": "Rohan Hegde"
+  },
+  {
+    "doc_id": "SUP-006",
+    "category": "support_ticket",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 65,
+    "end": 91,
+    "expected_value": "support.user5@corp-mail.in"
+  },
+  {
+    "doc_id": "SUP-006",
+    "category": "support_ticket",
+    "entity_type": "VOTER_ID",
+    "start": 112,
+    "end": 122,
+    "expected_value": "MHA7821205"
+  },
+  {
+    "doc_id": "SUP-006",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 169,
+    "end": 236,
+    "expected_value": "House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006"
+  },
+  {
+    "doc_id": "SUP-007",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 50,
+    "end": 65,
+    "expected_value": "Rajeshwari Iyer"
+  },
+  {
+    "doc_id": "SUP-007",
+    "category": "support_ticket",
+    "entity_type": "AADHAAR",
+    "start": 84,
+    "end": 98,
+    "expected_value": "5033 9105 4096"
+  },
+  {
+    "doc_id": "SUP-007",
+    "category": "support_ticket",
+    "entity_type": "PAN",
+    "start": 107,
+    "end": 117,
+    "expected_value": "BHKPI5106M"
+  },
+  {
+    "doc_id": "SUP-007",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 165,
+    "end": 247,
+    "expected_value": "Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005"
+  },
+  {
+    "doc_id": "SUP-007",
+    "category": "support_ticket",
+    "entity_type": "PHONE_NUMBER",
+    "start": 271,
+    "end": 285,
+    "expected_value": "+91-9731006498"
+  },
+  {
+    "doc_id": "SUP-008",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 46,
+    "end": 60,
+    "expected_value": "Kunal Banerjee"
+  },
+  {
+    "doc_id": "SUP-008",
+    "category": "support_ticket",
+    "entity_type": "EMAIL_ADDRESS",
+    "start": 68,
+    "end": 94,
+    "expected_value": "support.user7@corp-mail.in"
+  },
+  {
+    "doc_id": "SUP-008",
+    "category": "support_ticket",
+    "entity_type": "VOTER_ID",
+    "start": 115,
+    "end": 125,
+    "expected_value": "MHA7821287"
+  },
+  {
+    "doc_id": "SUP-008",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 172,
+    "end": 241,
+    "expected_value": "Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031"
+  },
+  {
+    "doc_id": "SUP-009",
+    "category": "support_ticket",
+    "entity_type": "PERSON",
+    "start": 50,
+    "end": 63,
+    "expected_value": "Pooja Agarwal"
+  },
+  {
+    "doc_id": "SUP-009",
+    "category": "support_ticket",
+    "entity_type": "AADHAAR",
+    "start": 82,
+    "end": 96,
+    "expected_value": "7033 9105 6038"
+  },
+  {
+    "doc_id": "SUP-009",
+    "category": "support_ticket",
+    "entity_type": "PAN",
+    "start": 105,
+    "end": 115,
+    "expected_value": "BHKPA5108M"
+  },
+  {
+    "doc_id": "SUP-009",
+    "category": "support_ticket",
+    "entity_type": "ADDRESS",
+    "start": 163,
+    "end": 230,
+    "expected_value": "Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038"
+  },
+  {
+    "doc_id": "SUP-009",
+    "category": "support_ticket",
+    "entity_type": "PHONE_NUMBER",
+    "start": 254,
+    "end": 268,
+    "expected_value": "+91-9731007164"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 65,
+    "expected_value": "Arjun Malhotra"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 77,
+    "end": 86,
+    "expected_value": "POL202600"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 96,
+    "end": 110,
+    "expected_value": "5061-8293-0454"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 118,
+    "end": 128,
+    "expected_value": "DRTPM7100N"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 146,
+    "end": 154,
+    "expected_value": "J8204100"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 164,
+    "end": 237,
+    "expected_value": "B-204, Silver Oak Apartments, Satellite Road, Ahmedabad, Gujarat - 380015"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 254,
+    "end": 268,
+    "expected_value": "+91 9912003400"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 293,
+    "end": 305,
+    "expected_value": "501002938100"
+  },
+  {
+    "doc_id": "INS-001",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 312,
+    "end": 323,
+    "expected_value": "HDFC0001200"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 64,
+    "expected_value": "Deepika Joshi"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 76,
+    "end": 85,
+    "expected_value": "POL202601"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 95,
+    "end": 109,
+    "expected_value": "6061-8293-2384"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 117,
+    "end": 127,
+    "expected_value": "DRTPJ7101N"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 145,
+    "end": 153,
+    "expected_value": "J8204119"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 163,
+    "end": 230,
+    "expected_value": "House 74, Civil Lines, Near Clock Tower, Jaipur, Rajasthan - 302006"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 247,
+    "end": 261,
+    "expected_value": "+91 9912003611"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 286,
+    "end": 298,
+    "expected_value": "501002938101"
+  },
+  {
+    "doc_id": "INS-002",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 305,
+    "end": 316,
+    "expected_value": "HDFC0001201"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 65,
+    "expected_value": "Mohammed Irfan"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 77,
+    "end": 86,
+    "expected_value": "POL202602"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 96,
+    "end": 110,
+    "expected_value": "7061-8293-4315"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 118,
+    "end": 128,
+    "expected_value": "DRTPI7102N"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 146,
+    "end": 154,
+    "expected_value": "J8204138"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 164,
+    "end": 240,
+    "expected_value": "Flat 12, Lakeview Gardens, Salt Lake Sector V, Kolkata, West Bengal - 700091"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 257,
+    "end": 271,
+    "expected_value": "+91 9912003822"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 296,
+    "end": 308,
+    "expected_value": "501002938102"
+  },
+  {
+    "doc_id": "INS-003",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 315,
+    "end": 326,
+    "expected_value": "HDFC0001202"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 62,
+    "expected_value": "Sneha Patil"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 74,
+    "end": 83,
+    "expected_value": "POL202603"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 93,
+    "end": 107,
+    "expected_value": "8061-8293-6245"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 115,
+    "end": 125,
+    "expected_value": "DRTPP7103N"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 143,
+    "end": 151,
+    "expected_value": "J8204157"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 161,
+    "end": 230,
+    "expected_value": "Door 8/115, Marine Drive Extension, Ernakulam, Kochi, Kerala - 682031"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 247,
+    "end": 261,
+    "expected_value": "+91 9912004033"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 286,
+    "end": 298,
+    "expected_value": "501002938103"
+  },
+  {
+    "doc_id": "INS-004",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 305,
+    "end": 316,
+    "expected_value": "HDFC0001203"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 66,
+    "expected_value": "Rajeshwari Iyer"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 78,
+    "end": 87,
+    "expected_value": "POL202604"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 97,
+    "end": 111,
+    "expected_value": "5061-8293-8172"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 119,
+    "end": 129,
+    "expected_value": "DRTPI7104N"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 147,
+    "end": 155,
+    "expected_value": "J8204176"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 165,
+    "end": 247,
+    "expected_value": "Flat 402, Sai Krupa Residency, 4th Main, Vidyanagar, Davangere, Karnataka - 577005"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 264,
+    "end": 278,
+    "expected_value": "+91 9912004244"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 303,
+    "end": 315,
+    "expected_value": "501002938104"
+  },
+  {
+    "doc_id": "INS-005",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 322,
+    "end": 333,
+    "expected_value": "HDFC0001204"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 66,
+    "expected_value": "Siddharth Verma"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 78,
+    "end": 87,
+    "expected_value": "POL202605"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 97,
+    "end": 111,
+    "expected_value": "6061-8294-0108"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 119,
+    "end": 129,
+    "expected_value": "DRTPV7105N"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 147,
+    "end": 155,
+    "expected_value": "J8204195"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 165,
+    "end": 241,
+    "expected_value": "House No. 18-4-212, Jubilee Hills Road No. 12, Hyderabad, Telangana - 500033"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 258,
+    "end": 272,
+    "expected_value": "+91 9912004455"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 297,
+    "end": 309,
+    "expected_value": "501002938105"
+  },
+  {
+    "doc_id": "INS-006",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 316,
+    "end": 327,
+    "expected_value": "HDFC0001205"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 64,
+    "expected_value": "Pooja Agarwal"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 76,
+    "end": 85,
+    "expected_value": "POL202606"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 95,
+    "end": 109,
+    "expected_value": "7061-8294-2033"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 117,
+    "end": 127,
+    "expected_value": "DRTPA7106N"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 145,
+    "end": 153,
+    "expected_value": "J8204214"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 163,
+    "end": 230,
+    "expected_value": "Plot 27, Shanti Niketan Colony, Kothrud, Pune, Maharashtra - 411038"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 247,
+    "end": 261,
+    "expected_value": "+91 9912004666"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 286,
+    "end": 298,
+    "expected_value": "501002938106"
+  },
+  {
+    "doc_id": "INS-007",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 305,
+    "end": 316,
+    "expected_value": "HDFC0001206"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 62,
+    "expected_value": "Rohan Hegde"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 74,
+    "end": 83,
+    "expected_value": "POL202607"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 93,
+    "end": 107,
+    "expected_value": "8061-8294-3962"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 115,
+    "end": 125,
+    "expected_value": "DRTPH7107N"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 143,
+    "end": 151,
+    "expected_value": "J8204233"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 161,
+    "end": 233,
+    "expected_value": "Door No. 14/3, Anna Nagar East, 2nd Avenue, Chennai, Tamil Nadu - 600102"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 250,
+    "end": 264,
+    "expected_value": "+91 9912004877"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 289,
+    "end": 301,
+    "expected_value": "501002938107"
+  },
+  {
+    "doc_id": "INS-008",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 308,
+    "end": 319,
+    "expected_value": "HDFC0001207"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "PERSON",
+    "start": 51,
+    "end": 68,
+    "expected_value": "Lakshmi Narayanan"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "CUSTOMER_ID",
+    "start": 80,
+    "end": 89,
+    "expected_value": "POL202608"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "AADHAAR",
+    "start": 99,
+    "end": 113,
+    "expected_value": "5061-8294-5898"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "PAN",
+    "start": 121,
+    "end": 131,
+    "expected_value": "DRTPN7108N"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "PASSPORT",
+    "start": 149,
+    "end": 157,
+    "expected_value": "J8204252"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "ADDRESS",
+    "start": 167,
+    "end": 231,
+    "expected_value": "Flat 9B, Parkview Enclave, Sector 18, Gurugram, Haryana - 122015"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "PHONE_NUMBER",
+    "start": 248,
+    "end": 262,
+    "expected_value": "+91 9912005088"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "BANK_ACCOUNT",
+    "start": 287,
+    "end": 299,
+    "expected_value": "501002938108"
+  },
+  {
+    "doc_id": "INS-009",
+    "category": "insurance_claim",
+    "entity_type": "IFSC",
+    "start": 306,
+    "end": 317,
+    "expected_value": "HDFC0001208"
+  }
+]

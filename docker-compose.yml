@@ -1,0 +1,62 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: pgw-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-privacy_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-privacy_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-privacy_gateway}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgw_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-privacy_user} -d ${POSTGRES_DB:-privacy_gateway}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    container_name: pgw-redis
+    command: ["redis-server", "--save", "", "--appendonly", "no"]
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: pgw-backend
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-privacy_user}:${POSTGRES_PASSWORD:-privacy_pass}@postgres:5432/${POSTGRES_DB:-privacy_gateway}
+      REDIS_URL: redis://redis:6379/0
+    volumes:
+      - ./dataset:/dataset:ro
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: pgw-frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+
+volumes:
+  pgw_postgres_data:
